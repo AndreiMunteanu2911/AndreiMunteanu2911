@@ -56,16 +56,16 @@
 ### GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreiMunteanu2911&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreiMunteanu2911&theme=tokyonight&hide_border=true" alt="Streak" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreiMunteanu2911&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreiMunteanu2911&theme=tokyonight&hide_border=true" alt="Streak" width="49%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/AndreiMunteanu2911/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMunteanu2911&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMunteanu2911&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" width="49%" />
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreiMunteanu2911&theme=tokyo-night&hide_border=true&custom_title=Activity%20Graph" alt="Activity Graph" height="195" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreiMunteanu2911&theme=tokyo-night&hide_border=true&custom_title=Activity%20Graph" alt="Activity Graph" width="49%" />
   </a>
 </p>
 
