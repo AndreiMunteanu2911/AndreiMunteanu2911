@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;Building+Complex+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Computer+Science+Student;Full-Stack+Developer;Web%2C+Mobile+%26+AI+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,26 +20,28 @@
 </p>
 
 ### About Me
-* Senior Computer Science student at **"Dunărea de Jos" University of Galați**
-* Building data-driven systems, mobile applications, and AI integrations.
-* **Career Objective:** Seeking full-time roles in Software Engineering.
+
+- Senior Computer Science student at **Dunărea de Jos University of Galați**.
+- Building full-stack web platforms, mobile applications, data-driven systems, and AI integrations.
+- Interested in backend architecture, secure APIs, applied AI, and production deployment.
+- **Career objective:** Full-time Software Engineering role.
 
 ### Technologies
+
 <p align="left">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <br>
-  <!-- Frontend & Mobile -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <br>
-  <!-- Backend & Data -->
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
@@ -47,10 +49,10 @@
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <br>
-  <!-- Tools & Infrastructure -->
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
 </p>
 
 ### GitHub Activity & Stats
@@ -61,32 +63,36 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AndreiMunteanu2911/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMunteanu2911&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" width="49%" />
-  </a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreiMunteanu2911&theme=tokyo-night&hide_border=true&custom_title=Activity%20Graph" alt="Activity Graph" width="49%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMunteanu2911&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreiMunteanu2911&theme=tokyo-night&hide_border=true&custom_title=Activity%20Graph" alt="Activity Graph" width="49%" />
 </p>
 
 ### Featured Projects
 
-**FitPulse - Workout Tracker**
-A comprehensive mobile-first fitness platform designed for planning workouts, logging sessions, and tracking progress. 
-* **Key Features:** Real-time AI pose detection and form checking via MediaPipe, custom workout logging, a social feed, and an integrated e-commerce shop. 
-* **Tech Stack:** Next.js, React, Supabase, Tailwind CSS, Stripe, OpenRouter, Capacitor.
+#### [FitPulse - Workout Tracker](https://fitpulse-am.vercel.app)
 
-**Caliper App**
-A cross-platform nutrition and macro-tracking application that simplifies everyday dietary logging.
-* **Key Features:** AI-driven meal photo analysis for estimating macros, a conversational AI nutrition advisor, barcode scanning, and a TDEE calculator.
-* **Tech Stack:** Expo, React Native, Python (FastAPI), Supabase.
+A mobile-first fitness platform with a separately deployed web client and API backend.
 
-**Qurio**
-An educational platform that converts user-provided study materials, notes, or topics into focused, interactive multiple-choice exams.
-* **Key Features:** Instant quiz generation, step-by-step interactive learning, instant answer feedback with explanations, and persistent exam history.
-* **Tech Stack:** SvelteKit, Express, Node.js, Firebase Admin SDK, OpenRouter.
+- **Key features:** Workout logging, templates, progress tracking, MediaPipe form analysis, AI coaching, achievements, social features, admin tools, Stripe Checkout, and an Android APK.
+- **Stack:** Next.js, React, NestJS, Supabase, PostgreSQL, MediaPipe, OpenRouter, Stripe, Capacitor, Vercel.
 
-**Evolutionary Strategy Market Simulation**
-A Python-based research simulator designed to study how populations of algorithmic trading strategies evolve across historical market regimes.
-* **Key Features:** Historical price replay using yfinance, multi-asset strategy simulation, replicator dynamics for population updates, and extensive execution friction modeling (turnover, crowding, liquidity).
-* **Tech Stack:** Python, SQLite, Streamlit, Pandas, yfinance.
+#### [Caliper App - Calorie Tracker](https://caliperam.vercel.app/)
+
+A cross-platform nutrition and macro-tracking application focused on efficient everyday dietary logging.
+
+- **Key features:** AI meal-photo analysis, macro estimation, conversational nutrition guidance, barcode scanning, and TDEE calculation.
+- **Stack:** Expo, React Native, Python, FastAPI, Supabase.
+
+#### [Qurio - AI Powered Learning](https://qurioam.vercel.app/)
+
+An educational platform that turns study materials, notes, and topics into focused interactive exams.
+
+- **Key features:** Quiz generation, step-by-step learning, immediate answer explanations, and persistent exam history.
+- **Stack:** SvelteKit, Express, Node.js, Firebase Admin SDK, OpenRouter.
+
+#### Evolutionary Strategy Market Simulation
+
+A research simulator for studying how populations of algorithmic trading strategies evolve across historical market regimes.
+
+- **Key features:** Historical price replay, multi-asset simulation, replicator dynamics, and execution-friction modeling for turnover, crowding, and liquidity.
+- **Stack:** Python, SQLite, Streamlit, Pandas, yfinance.
