@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -89,6 +90,13 @@ An educational platform that turns study materials, notes, and topics into focus
 
 - **Key features:** Quiz generation, step-by-step learning, immediate answer explanations, and persistent exam history.
 - **Stack:** SvelteKit, Express, Node.js, Firebase Admin SDK, OpenRouter.
+
+#### [GridKing - Multiplayer Checkers](https://gridking-am.vercel.app)
+
+A cross-platform American Checkers game with real-time multiplayer, ranked competition, and server-side bot opponents.
+
+- **Key features:** Casual and ranked matchmaking, MMR and leaderboards, Easy, Medium, and Hard bots, mandatory-capture validation, player profiles, and Android support.
+- **Stack:** Angular, TypeScript, Go, Firebase Authentication, Firestore, WebSockets, Capacitor, Vercel, Render.
 
 #### Evolutionary Strategy Market Simulation
 
